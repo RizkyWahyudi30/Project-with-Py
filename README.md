@@ -6,4 +6,4 @@ Here is a simple Python project that has been created :
 - 🎯 Simple Calculator
 - 🎯 Simple Face Reconigtion
 
-Sorry Everyone, belom update lagi
+Sorry Everyone, belom update lagi, sek sek, masih belom, 
