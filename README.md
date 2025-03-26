@@ -5,3 +5,6 @@ In this repository, we will learn together about the Python programming language
 Here is a simple Python project that has been created :
 - 🎯 Simple Calculator
 - 🎯 Simple Face Reconigtion
+
+> KQKQKQKAJDBUASBOIASFIUAS
+> BJAVSFVASVF;A
